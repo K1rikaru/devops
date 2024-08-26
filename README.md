@@ -1,4 +1,4 @@
-# sf-devops-diploma
+# sf-devops-diplom
 
 
 **Ссылки на этапы:**
