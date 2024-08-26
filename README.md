@@ -4,7 +4,7 @@
 **Ссылки на этапы:**
 
 - Спринт 1: https://github.com/K1rikaru/devops
-- Спринт 2: https://gitlab.com/andryplekhanov/dj-project
+- Спринт 2: https://gitlab.com/pavelcherepanov94/sf_diplom
 - Спринт 3: https://gitlab.com/andryplekhanov/monitoring
 
 <hr>
