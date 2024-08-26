@@ -297,5 +297,3 @@ SUBNETID: <id подсети, в которой находится ингрес�
 ![Grafana-logs](sprint3/img-logs.png)
 
 ![Grafana-blackbox](sprint3/img-blackbox.png)
-
-![Grafana-alerting](sprint3/img-alerting.png)
